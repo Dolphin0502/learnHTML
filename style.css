@@ -1,0 +1,34 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing:border-box;
+}
+
+html,body{
+    width: 100%;
+    height: 100%;
+}
+
+#box{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 500px;
+    height: 500px;
+    background-color: grey;
+}
+#box1{
+    width: 100px;
+    height: 100px;
+    background-color: yellow;
+}
+#box2{
+    width: 110px;
+    height: 110px;
+    background-color: brown;
+}
+#box3{
+    width: 120px;
+    height: 120px;
+    background-color: black;
+}
